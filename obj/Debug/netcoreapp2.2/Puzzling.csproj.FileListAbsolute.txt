@@ -1,0 +1,11 @@
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\bin\Debug\netcoreapp2.2\Puzzling.deps.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\bin\Debug\netcoreapp2.2\Puzzling.runtimeconfig.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\bin\Debug\netcoreapp2.2\Puzzling.runtimeconfig.dev.json
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\bin\Debug\netcoreapp2.2\Puzzling.dll
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\bin\Debug\netcoreapp2.2\Puzzling.pdb
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\obj\Debug\netcoreapp2.2\Puzzling.csprojAssemblyReference.cache
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\obj\Debug\netcoreapp2.2\Puzzling.csproj.CoreCompileInputs.cache
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\obj\Debug\netcoreapp2.2\Puzzling.AssemblyInfoInputs.cache
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\obj\Debug\netcoreapp2.2\Puzzling.AssemblyInfo.cs
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\obj\Debug\netcoreapp2.2\Puzzling.dll
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Puzzling\obj\Debug\netcoreapp2.2\Puzzling.pdb
