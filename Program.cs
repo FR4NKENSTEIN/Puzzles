@@ -91,6 +91,15 @@ namespace Puzzling
         public static List<string> Names()
         {
             List<string> namesList = new List<string>(){"Todd", "Tiffany", "Charlie", "Geneva", "Sydney"};
+            Random chance = new Random();
+            int count = namesList.Count;
+            for (int n = 0; n < count; n++)
+            {
+                int sel = chance.Next(n,count);//the random selection
+                string rem = namesList[n];//remember this name
+                namesList[n] = namesList[sel];
+                namesList[sel] = rem;
+            }
             return namesList;
         }
         static void Main(string[] args)
@@ -106,7 +115,10 @@ namespace Puzzling
             // System.Console.WriteLine(outcome);
             foreach (string name in Names())
             {
-                System.Console.Write($"{name} ");
+                if (name.Length > 5)
+                {
+                    System.Console.Write($"{name} ");
+                }
             }
         }
     }
