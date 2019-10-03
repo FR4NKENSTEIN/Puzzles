@@ -84,7 +84,7 @@ namespace Puzzling
                 }
             }
            ratio += (double)heads/coins;
-           Console.Write("The ration of head flips to the total is...");
+           Console.WriteLine("The ration of head flips to the total is...");
            return ratio;
         }
 
@@ -104,7 +104,10 @@ namespace Puzzling
             // toss a coin
             // var outcome = Multi(25);
             // System.Console.WriteLine(outcome);
-            
+            foreach (string name in Names())
+            {
+                System.Console.Write($"{name} ");
+            }
         }
     }
 }
